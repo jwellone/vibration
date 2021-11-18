@@ -1,0 +1,16 @@
+{
+    "name": "jwellone.Vibration.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c401796e4c4764a22a53b12040116bbe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
