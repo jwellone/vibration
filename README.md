@@ -7,7 +7,7 @@
 
 
 # vibration
-Can vibrate a device (iOS or Android).
+Vibrate the device. This feature is currently for iOS or Android.
 
 This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
